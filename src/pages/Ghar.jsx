@@ -1,3 +1,5 @@
+import "./Ghar.css";
+
 export const Ghar = () => {
-  return <div></div>;
+  return <div className="ghar"></div>;
 };
