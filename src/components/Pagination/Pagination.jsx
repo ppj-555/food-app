@@ -24,7 +24,9 @@ export const Pagination = ({ pages, getPageNo }) => {
         })}
       </>
 
-      {/* <span className="pageno-dot">...</span> */}
+      {/* <span className="pageno-dot">...</span>
+
+      <span className="pageno-dot">...</span> */}
 
       <button className="forward-btn">
         <IoChevronForwardOutline size={15} />
